@@ -115,13 +115,6 @@ streamlit run fulrag.py
 
 ---
 
-## 📸 Screenshots
-
-| Summarizer Section                          | Chatbot Section                       |
-| ------------------------------------------- | ------------------------------------- |
-| ![Summarizer](./screenshots/summarizer.png) | ![Chatbot](./screenshots/chatbot.png) |
-
----
 
 ## ⚙️ Future Enhancements
 
