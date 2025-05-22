@@ -1,6 +1,6 @@
 # Naan-Mudhalvan-Project-2
 
-🧠 PDF Summarizer & Chatbot with RAG + LLM Integration
+###🧠 PDF Summarizer & Chatbot with RAG + LLM Integration ###
 This project is a Streamlit web app that leverages LangChain, LLMs (LLaMA3/Groq), and RAG (Retrieval-Augmented Generation) to provide two powerful capabilities:
 
 📄 PDF Summarization – Generate short and long summaries of uploaded PDFs using LLMs.
